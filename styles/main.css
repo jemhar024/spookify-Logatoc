@@ -128,7 +128,7 @@ h2{
   margin-top: 10%;
   margin-bottom: 10%;
 }
-.top-stories, .top-authors{
+.top-stories, .TopAuthors{
   margin-bottom:10%;
   font-size: 30px;
   font-weight: bold;
@@ -143,15 +143,15 @@ h2{
 }
 .Story_Title{
   margin-bottom:10%;
-  color: #3D2892;
   font-size: 30px;
   font-weight: bold;
   text-decoration: none;
+  color: #3D2892;
   filter: drop-shadow(1px 1px 4px rgba(128, 128, 128, 0.368));
 }
 
 .StoryOne{
-   font-size: 28px;
+    font-size: 28px;
     margin-bottom: 2%;
     margin-left: 4%;
     color: #3D2892;
@@ -229,3 +229,47 @@ img.storyone{
   text-align:start;
 }
 
+.TopAuthors{
+  text-align: center;
+  filter: none;
+}
+.authors{
+  margin-bottom: 40%;
+  
+}
+.author1{
+  position:absolute;
+  text-align: center;
+  margin-left: 9%;
+
+}
+.author2{
+  margin-left: 40%;
+  position:absolute;
+  text-align: center;
+}
+.author3{
+  margin-left: 67%;
+  position:absolute;
+  text-align: center;
+}
+.name{
+  font-size: 28px;
+  color:#F55D3A;
+  margin-top: 5%;
+}
+.class{
+  font-size: 18px;
+  font-family: 'Lora', serif;
+  color: gray;
+  margin-top: 2.5%;
+}
+.name{
+  width: 200px;
+}
+
+.authorname{
+  font-size: 28px;
+  color:#F55D3A;
+  margin-top: 5%;
+}
