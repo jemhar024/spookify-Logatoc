@@ -273,3 +273,40 @@ img.storyone{
   color:#F55D3A;
   margin-top: 5%;
 }
+
+.img-footer{
+  width: 101%;
+  margin-left: -1%;
+  margin-bottom:-1%;
+
+}
+
+.DtS,.container-3,.SU,.f-input,.credits{
+  position: absolute;
+}
+.DtS{
+  margin-top: 15%;
+  text-transform: none;
+}
+.f-input, .SU{
+  border: #FFFAFB;
+  margin-top: 17.5%;
+  padding: 10px 30px;
+  margin-left: 61%;
+}
+.credits{
+  font-size: 18px;
+  margin-top: 24%;
+  color: #FFFAFB;
+  margin-left: 35%;
+}
+.SU{
+  margin-top: 17.7%;
+  margin-left:80%;
+  padding: 5px 20px;
+  border-radius: 5%;
+  background-color: #3D2892;
+  color: #FFFAFB;
+  font-size: 18px;
+  font-weight: bold;
+}
